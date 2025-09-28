@@ -23,5 +23,3 @@ Logout пользователя test_logout_user
 Создание объявления неавторизованным пользователем  test_create_ad_unauthorized
 
 Создание объявления авторизованным пользователем test_create_ad_authorized
-
-
